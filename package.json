@@ -1,0 +1,1 @@
+{"description":"One image summing up the world's news of Monday 23 November 2026","engines":{"node":">=22"},"name":"news-image-20261123","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
